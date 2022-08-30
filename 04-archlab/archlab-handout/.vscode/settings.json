@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "*.proto": "proto",
+        "isa.h": "c",
+        "sim.h": "c"
+    }
+}
